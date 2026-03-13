@@ -1,0 +1,22 @@
+# Fichiers temporaires Scilab
+*.bin
+*.sav
+*.sod
+*.cos
+*.cosf
+*.zcos
+
+# Répertoire de travail Scilab
+tmp/
+.scilab/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de sauvegarde éditeurs
+*~
+*.bak
+*.swp
+*.swo
