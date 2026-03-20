@@ -1,0 +1,3 @@
+=== Résumé Séance 4 ===
+Temps total en SAFE : 120 secondes
+Nombre d événements : 2
